@@ -1,0 +1,131 @@
+{
+  "project_info": {
+    "project_number": "580154676628",
+    "firebase_url": "https://cabinet-voennogo-old-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "cabinet-voennogo-old",
+    "storage_bucket": "cabinet-voennogo-old.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580154676628:android:be925a5b25b0810f506b81",
+        "android_client_info": {
+          "package_name": "com.militeryhelper.sovetnik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580154676628-bkbervn217jqsm169ei7ts1pee5r63j6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.militeryhelper.sovetnik",
+            "certificate_hash": "f16edcd9e6a994c93ccd76c0d0946e0ded449bf3"
+          }
+        },
+        {
+          "client_id": "580154676628-e2atmbpqegmgc28cnn9its4aiq310663.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.militeryhelper.sovetnik",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "580154676628-l50ll21dqnqgfve9ael5oogpcsbdm23r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.militeryhelper.sovetnik",
+            "certificate_hash": "8213b679c11895d2ab4241d5b851bd32343d298d"
+          }
+        },
+        {
+          "client_id": "580154676628-8qsol577eho6vo0e768nr1rfmih35i24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk-Ao9NdHSZ-LV2h4WgXbCTj0lZKz4gY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580154676628-8qsol577eho6vo0e768nr1rfmih35i24.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "580154676628-6omcbktuev6rv4hlh787n8kulnt30hve.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.militeryhelper.sovetnik"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580154676628:android:4daac12120c630ce506b81",
+        "android_client_info": {
+          "package_name": "com.militeryhelper.sovetnik.blog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580154676628-2a3j0mcenbhc3d1j9fej9gsta6gbj9dr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.militeryhelper.sovetnik.blog",
+            "certificate_hash": "872ab04ca59bffd010356a62f03fdf7dd6abeb48"
+          }
+        },
+        {
+          "client_id": "580154676628-dol2gvui2apt8cur5bns25e3na5mo384.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.militeryhelper.sovetnik.blog",
+            "certificate_hash": "48687f25cd6dd93516f69f91c191f5b684b3d995"
+          }
+        },
+        {
+          "client_id": "580154676628-p92kfpv8es1mf1mv8mfjpmsf7c3nkr2q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.militeryhelper.sovetnik.blog",
+            "certificate_hash": "bea641c85c0416ae824203cb1430a15b0166d149"
+          }
+        },
+        {
+          "client_id": "580154676628-8qsol577eho6vo0e768nr1rfmih35i24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk-Ao9NdHSZ-LV2h4WgXbCTj0lZKz4gY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580154676628-8qsol577eho6vo0e768nr1rfmih35i24.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "580154676628-6omcbktuev6rv4hlh787n8kulnt30hve.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.militeryhelper.sovetnik"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

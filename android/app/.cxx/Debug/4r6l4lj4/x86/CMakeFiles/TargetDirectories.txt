@@ -1,0 +1,2 @@
+C:/news-pro/android/app/.cxx/Debug/4r6l4lj4/x86/CMakeFiles/edit_cache.dir
+C:/news-pro/android/app/.cxx/Debug/4r6l4lj4/x86/CMakeFiles/rebuild_cache.dir
